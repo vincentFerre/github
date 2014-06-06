@@ -13,6 +13,7 @@
   </style>
 </head>
 <body>
+<div>Aloha </div>
 <p class="p1">define(function(require) {</p>
 <p class="p1"><span class="Apple-tab-span">	</span>var tmplFulfillments = require('checkout/dust/tasks/deliveryOptions/fulfillments');</p>
 <p class="p1"><span class="Apple-converted-space">    </span>var tmplEmailForm = require('checkout/dust/tasks/deliveryOptions/partials/email-form');</p>
