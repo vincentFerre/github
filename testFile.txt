@@ -1,2 +1,6 @@
 this is a text file for tesing github
 MASTER : adding this at 10:08
+
+adding this
+third change
+Merge conflict resolved: grab all
